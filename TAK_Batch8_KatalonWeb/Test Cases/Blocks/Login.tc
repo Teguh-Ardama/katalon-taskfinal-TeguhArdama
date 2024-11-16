@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c24b741f-216f-4fef-859a-b8481082db2f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e9a9859c-ab51-4973-b8bf-0a0f31ac165b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>72bc1f28-7358-4246-ac1b-2a1cb12e5dbe</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'teguhardama200@gmail.com'</defaultValue>
+      <description></description>
+      <id>e9a9859c-ab51-4973-b8bf-0a0f31ac165b</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Admin12#'</defaultValue>
+      <description></description>
+      <id>72bc1f28-7358-4246-ac1b-2a1cb12e5dbe</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

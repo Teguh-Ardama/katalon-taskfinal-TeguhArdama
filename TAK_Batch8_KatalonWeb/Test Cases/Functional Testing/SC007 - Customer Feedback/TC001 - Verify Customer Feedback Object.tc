@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001 - Verify Customer Feedback Object</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7d1d997-3f39-4007-891e-5329aff2548c</testCaseGuid>
+</TestCaseEntity>

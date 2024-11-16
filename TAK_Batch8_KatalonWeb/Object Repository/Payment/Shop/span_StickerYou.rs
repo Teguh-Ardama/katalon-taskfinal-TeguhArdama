@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_StickerYou</name>
+   <tag></tag>
+   <elementGuidId>958f9d3d-18d9-48dc-90fc-e43eade1ccdb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(3) > button.mat-focus-indicator.mat-stroked-button.mat-button-base > span.mat-button-wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-accordion-child-2']/div/div/div[2]/div[2]/a[3]/button/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'mat-button-wrapper' and (text() = ' StickerYou' or . = ' StickerYou')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1b6fd197-4cc7-4985-a39a-44c91db1ceef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button-wrapper</value>
+      <webElementGuid>1619a557-c973-4e36-b1d3-3b76b70a626d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> StickerYou</value>
+      <webElementGuid>5f6f52bb-7dcf-4fd5-9fc0-db6255f7ee9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-accordion-child-2&quot;)/div[@class=&quot;mat-expansion-panel-body ng-tns-c40-16&quot;]/div[@class=&quot;ng-tns-c40-16&quot;]/div[@class=&quot;mat-elevation-z0&quot;]/div[@class=&quot;button-container&quot;]/a[3]/button[@class=&quot;mat-focus-indicator mat-stroked-button mat-button-base&quot;]/span[@class=&quot;mat-button-wrapper&quot;]</value>
+      <webElementGuid>6c7b3230-cc45-4367-bc49-3ae3e7307095</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-accordion-child-2']/div/div/div[2]/div[2]/a[3]/button/span</value>
+      <webElementGuid>86ee29cf-e1ec-4634-b87a-f4820d4f0e3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Spreadshirt (DE)'])[1]/following::span[3]</value>
+      <webElementGuid>e6a06a02-a600-4f9f-9df3-dfedab95e24d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Spreadshirt (US)'])[1]/following::span[6]</value>
+      <webElementGuid>33043b7e-8c98-4b96-b65e-080bb9b493b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leanpub'])[1]/preceding::span[3]</value>
+      <webElementGuid>332c58d2-986b-4626-8adc-2143d40dbc5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OpenSea'])[1]/preceding::span[6]</value>
+      <webElementGuid>701e2c3e-0973-4162-a398-2e004a71c8c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='StickerYou']/parent::*</value>
+      <webElementGuid>a1caf813-b2bc-48ee-8d1f-2fbfbf2215da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/button/span</value>
+      <webElementGuid>a238bcd2-f82b-4202-ae86-587791ef49f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' StickerYou' or . = ' StickerYou')]</value>
+      <webElementGuid>727cad3d-9c7b-4c01-82e1-caf560342644</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

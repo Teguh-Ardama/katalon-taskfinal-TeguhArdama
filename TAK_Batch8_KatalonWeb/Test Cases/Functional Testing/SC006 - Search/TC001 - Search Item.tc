@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001 - Search Item</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>47ea9afa-3dd4-4f62-8dfb-ed2361e6f615</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d7134df5-bbe6-49b0-8a9e-9299db306e9f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Apple Juice (1000ml)'</defaultValue>
+      <description></description>
+      <id>d7134df5-bbe6-49b0-8a9e-9299db306e9f</id>
+      <masked>false</masked>
+      <name>items</name>
+   </variable>
+</TestCaseEntity>

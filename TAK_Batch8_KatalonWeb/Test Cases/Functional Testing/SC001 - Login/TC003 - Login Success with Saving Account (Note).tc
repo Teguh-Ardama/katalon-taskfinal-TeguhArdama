@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Actually : Tidak tersimpan walaupun klik Remember me di Login Page
+Expected : Seharusnya jika klik Remember me di Login Page, maka account nya akan tersimpan saat ingin login lagi</description>
+   <name>TC003 - Login Success with Saving Account (Note)</name>
+   <tag>Defect Low</tag>
+   <comment></comment>
+   <testCaseGuid>309acd4d-683e-4823-8262-7d1394dc0ffb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c7b1481e-6558-43e2-b613-6ba8b4bef4fa</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d70ca22c-4a7b-4835-861b-ca6b67e4ddb5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'teguhardama75@gmail.com'</defaultValue>
+      <description></description>
+      <id>c7b1481e-6558-43e2-b613-6ba8b4bef4fa</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Teguh12#'</defaultValue>
+      <description></description>
+      <id>d70ca22c-4a7b-4835-861b-ca6b67e4ddb5</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

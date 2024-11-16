@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001 - Verify Login Object</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>482e20bc-1b01-4bc1-972a-4fa0753e9300</testCaseGuid>
+</TestCaseEntity>

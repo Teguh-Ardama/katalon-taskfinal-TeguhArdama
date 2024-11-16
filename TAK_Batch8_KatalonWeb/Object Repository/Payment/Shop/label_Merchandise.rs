@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Merchandise</name>
+   <tag></tag>
+   <elementGuidId>25f9768c-a94b-46d9-993f-84de0d882552</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-accordion-child-2']/div/div/div[2]/div/label</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[(text() = 'Merchandise' or . = 'Merchandise')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>adcc8dc2-0d24-4493-9721-ea884b58ed20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Merchandise</value>
+      <webElementGuid>5c4051ee-1ec3-4d41-96eb-0dc2cf8c4aa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-accordion-child-2&quot;)/div[@class=&quot;mat-expansion-panel-body ng-tns-c40-16&quot;]/div[@class=&quot;ng-tns-c40-16&quot;]/div[@class=&quot;mat-elevation-z0&quot;]/div[@class=&quot;payment-label&quot;]/label[1]</value>
+      <webElementGuid>94943e47-6ab5-4c92-ac20-93c2fda784ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-accordion-child-2']/div/div/div[2]/div/label</value>
+      <webElementGuid>80b35fc1-dfcc-4265-94e9-27a0299888f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Credit Card'])[1]/following::label[1]</value>
+      <webElementGuid>e8c730d5-33b7-411e-a9a2-f1776bc0051f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thank you for supporting OWASP Juice Shop!'])[1]/following::label[1]</value>
+      <webElementGuid>ed7d0420-bff3-4892-bdb0-514ba1a6f579</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Official stores for OWASP Juice Shop apparel, mugs and stickers!'])[1]/preceding::label[1]</value>
+      <webElementGuid>bc7a4b04-472e-451b-b568-756a4c5698cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Merchandise']/parent::*</value>
+      <webElementGuid>c28201fa-e54d-46e2-81b1-a78da16c7dfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label</value>
+      <webElementGuid>18093454-5392-4dbf-88c7-3463d262db39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Merchandise' or . = 'Merchandise')]</value>
+      <webElementGuid>1bab22ff-9c5d-4f68-88cc-a3bb9d2afdf3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

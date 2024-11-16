@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Image</name>
+   <tag></tag>
+   <elementGuidId>6e6a0308-cc83-458d-be72-a87e86dd0655</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@class = 'image']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Magn(et)ificent! (© bkimminich)']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b9a34ddf-84e6-4226-bd20-c66ed9df9ad4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>image</value>
+      <webElementGuid>8ce09cf1-02ec-4cc9-ab22-f862a1104c6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/public/images/uploads/magn(et)ificent!-1571814229653.jpg</value>
+      <webElementGuid>0634b3bf-b664-4d8e-9b58-443f0a2aa292</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Magn(et)ificent! (© bkimminich)</value>
+      <webElementGuid>c16e8375-6e1f-45c6-ad2e-783e2fe7ab7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;mat-app-background bluegrey-lightgreen-theme&quot;]/app-root[1]/div[@class=&quot;mat-typography&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container mat-drawer-transition&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content ng-star-inserted&quot;]/app-photo-wall[@class=&quot;ng-star-inserted&quot;]/mat-card[@class=&quot;mat-card mat-focus-indicator heading mat-elevation-z6 mat-own-card&quot;]/div[1]/div[@class=&quot;grid ng-star-inserted&quot;]/span[@class=&quot;container mat-elevation-z6 ng-star-inserted&quot;]/img[@class=&quot;image&quot;]</value>
+      <webElementGuid>68bf977e-c1d9-4eea-9dce-a59c7f0af4d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Magn(et)ificent! (© bkimminich)']</value>
+      <webElementGuid>d41fa90e-d6bb-4e74-a87c-52e96776b00f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/img</value>
+      <webElementGuid>c5d9008c-3020-4be8-a946-7e38d2b0a658</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/public/images/uploads/magn(et)ificent!-1571814229653.jpg' and @alt = 'Magn(et)ificent! (© bkimminich)']</value>
+      <webElementGuid>d6ae54d8-e2fc-4690-a80f-91cacdddaa48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004 - Login with Empty Field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>acc1463d-3f32-4256-af68-b2d0e8ae9b0a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>91bbf6f9-f4d5-4eea-bfc7-127eee1b0fbe</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>523a9fba-2a99-411f-b5d6-f071b0e9211d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'teguhardama75@gmail.com'</defaultValue>
+      <description></description>
+      <id>91bbf6f9-f4d5-4eea-bfc7-127eee1b0fbe</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Teguh12#'</defaultValue>
+      <description></description>
+      <id>523a9fba-2a99-411f-b5d6-f071b0e9211d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

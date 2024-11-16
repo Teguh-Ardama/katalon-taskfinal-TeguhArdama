@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Spreadshirt (US)</name>
+   <tag></tag>
+   <elementGuidId>8d568d21-76e4-4573-82fc-d8a1c996d8e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-accordion-child-2']/div/div/div[2]/div[2]/a/button/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'mat-button-wrapper' and (text() = ' Spreadshirt (US)' or . = ' Spreadshirt (US)')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>df16e044-a029-40cf-a9e3-aabd3fcd7934</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button-wrapper</value>
+      <webElementGuid>5cb1b4b6-baa6-44f0-a689-ada853482dbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Spreadshirt (US)</value>
+      <webElementGuid>19b6483f-8fa9-422d-a3fd-1e451732f5df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-accordion-child-2&quot;)/div[@class=&quot;mat-expansion-panel-body ng-tns-c40-16&quot;]/div[@class=&quot;ng-tns-c40-16&quot;]/div[@class=&quot;mat-elevation-z0&quot;]/div[@class=&quot;button-container&quot;]/a[1]/button[@class=&quot;mat-focus-indicator mat-stroked-button mat-button-base&quot;]/span[@class=&quot;mat-button-wrapper&quot;]</value>
+      <webElementGuid>5d5074ee-4bcf-41f5-a9ef-604819ef6563</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-accordion-child-2']/div/div/div[2]/div[2]/a/button/span</value>
+      <webElementGuid>582d2d4c-a60c-41b8-a9d3-936369dcd289</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Official stores for OWASP Juice Shop apparel, mugs and stickers!'])[1]/following::span[1]</value>
+      <webElementGuid>764d2e0e-efe8-40b0-9131-3af1433510dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Spreadshirt (DE)'])[1]/preceding::span[3]</value>
+      <webElementGuid>38beb859-3f4e-470b-8c25-49ef926ba37b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='StickerYou'])[1]/preceding::span[6]</value>
+      <webElementGuid>91e97677-fb8b-4498-8e35-dfa38154bd67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Spreadshirt (US)']/parent::*</value>
+      <webElementGuid>c7193899-7826-410a-b86a-fed6f6de57b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/a/button/span</value>
+      <webElementGuid>3f5de5ba-a9c8-4f32-ad51-052d791de136</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Spreadshirt (US)' or . = ' Spreadshirt (US)')]</value>
+      <webElementGuid>b76dc32b-ffcb-42ed-b61c-eb1cf90de44f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

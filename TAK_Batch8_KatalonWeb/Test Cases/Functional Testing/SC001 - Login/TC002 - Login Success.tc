@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002 - Login Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>095722eb-9aaf-42e6-90d4-b55950888986</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3914397e-564a-4d00-96c8-d212f95f3c9e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4a4725a9-285e-4769-86ea-c36574121e16</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'teguhardama11@gmail.com'</defaultValue>
+      <description></description>
+      <id>3914397e-564a-4d00-96c8-d212f95f3c9e</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Admin12#'</defaultValue>
+      <description></description>
+      <id>4a4725a9-285e-4769-86ea-c36574121e16</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Thumbnail Item</name>
+   <tag></tag>
+   <elementGuidId>d6567697-18fc-4df5-81e8-a3e81587bc8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.container.mat-typography > div > div > img.img-thumbnail</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-1']/app-product-details/mat-dialog-content/div/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>89162d70-7ef2-4a43-9643-e96e45de255c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-thumbnail</value>
+      <webElementGuid>583b59d8-f3c9-4f32-90ac-d878d374d11c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Apple Juice (1000ml)</value>
+      <webElementGuid>c060f0b0-1c7e-4aa6-90f7-c6d9a4764b1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/public/images/products/apple_juice.jpg</value>
+      <webElementGuid>7564be24-986b-452d-8047-2343c0ecc058</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-1&quot;)/app-product-details[@class=&quot;ng-star-inserted&quot;]/mat-dialog-content[@class=&quot;mat-dialog-content&quot;]/div[@class=&quot;container mat-typography&quot;]/div[1]/div[1]/img[@class=&quot;img-thumbnail&quot;]</value>
+      <webElementGuid>5c590c90-5883-47ca-9a05-6b6e51b26ccf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-1']/app-product-details/mat-dialog-content/div/div/div/img</value>
+      <webElementGuid>27453456-f960-4314-8690-ae9cf4ee275f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Apple Juice (1000ml)'])[2]</value>
+      <webElementGuid>0118ab84-1495-4a43-acab-d8c4aadefad3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/img</value>
+      <webElementGuid>67f4e032-5f81-4d13-84f7-46e4e5ff579f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Apple Juice (1000ml)' and @src = 'assets/public/images/products/apple_juice.jpg']</value>
+      <webElementGuid>10b16235-2c74-4f6b-a44f-9af74cd4d844</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

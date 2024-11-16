@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Price Item</name>
+   <tag></tag>
+   <elementGuidId>a08bdbcb-c2a3-4861-93de-4aa729fab606</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Apple Juice (1000ml)'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e9d9652b-df40-4a18-8522-b90257cc1e0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>15ab3eb7-cbaf-4bd3-bf1a-f12c863034d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1.99¤</value>
+      <webElementGuid>c32453cc-940b-49be-ac15-cf0aea12db61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;mat-app-background bluegrey-lightgreen-theme&quot;]/app-root[1]/div[@class=&quot;mat-typography&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content ng-star-inserted&quot;]/app-search-result[@class=&quot;ng-star-inserted&quot;]/div[1]/div[@class=&quot;table-container custom-slate&quot;]/div[@class=&quot;ng-star-inserted&quot;]/mat-grid-list[@class=&quot;mat-grid-list&quot;]/div[1]/mat-grid-tile[@class=&quot;mat-grid-tile ng-star-inserted&quot;]/div[@class=&quot;mat-grid-tile-content&quot;]/mat-card[@class=&quot;mat-card mat-focus-indicator mat-elevation-z6 ribbon-card&quot;]/div[@class=&quot;mat-tooltip-trigger product&quot;]/div[2]/div[@class=&quot;item-price&quot;]/span[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>65e9073d-c28b-42f5-a12b-6fd4a9ccaca1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apple Juice (1000ml)'])[1]/following::span[1]</value>
+      <webElementGuid>33dfcd4c-b85f-4184-b85a-3b8bd0104f7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Products'])[1]/following::span[1]</value>
+      <webElementGuid>efe60be5-89c1-44d5-9ef8-37f2f41728ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apple Pomace'])[1]/preceding::span[1]</value>
+      <webElementGuid>72441908-f178-4b58-b72a-59e5555fb405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Banana Juice (1000ml)'])[1]/preceding::span[2]</value>
+      <webElementGuid>25743375-f6e1-472d-b1c0-304de8599fa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1.99¤']/parent::*</value>
+      <webElementGuid>e033ce1c-9259-41c2-ac1f-0af8704b58bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/span</value>
+      <webElementGuid>43e6e32e-5e31-4a55-b07c-3d5c652afc2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '1.99¤' or . = '1.99¤')]</value>
+      <webElementGuid>2b76374b-ed66-4906-9257-07570a880250</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
